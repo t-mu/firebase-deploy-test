@@ -1,0 +1,8 @@
+{
+  "name": "firebase-deploy-test",
+  "version": "1.0.0",
+  "description": "Testing how to deploy an app to Firebase",
+  "main": "index.js",
+  "author": "Teemu Mäntyharju <teemu.mantyharju@houston-inc.com>",
+  "license": "MIT"
+}
