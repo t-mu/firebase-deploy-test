@@ -1,1 +1,5 @@
-{}
+{
+  "projects": {
+    "firebase-deploy-test": "fir-deploy-test-bd748"
+  }
+}
